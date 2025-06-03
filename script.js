@@ -1,18 +1,17 @@
-// 制作物データ
+// 制作物
 const projects = [
   {
-    title: "ToDoリストアプリ",
-    description: "ローカルストレージに対応した簡単なToDoアプリです。",
-    url: "https://your-username.github.io/todo-app/"
+    title: "xxxxアプリ",
+    description: "TBD",
+    url: "https://Mineyu-GH.github.io/"
   },
   {
-    title: "天気予報アプリ",
-    description: "OpenWeatherMap APIを使った天気アプリ。",
-    url: "https://your-username.github.io/weather-app/"
+    title: "xxxxアプリ",
+    description: "TBD",
+    url: "https://Mineyu-GH.github.io/S"
   }
 ];
 
-// DOMに表示
 const container = document.getElementById("projects");
 
 projects.forEach(project => {
