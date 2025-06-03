@@ -1,1 +1,1 @@
-"hello"
+HTML, JavaScriptの学習と、Bootstrapの活用を目的に作成した簡単なポートフォリオです。
